@@ -1,0 +1,2 @@
+# goserve
+go serve
