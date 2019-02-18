@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a412a221-74ee-4f6b-b720-2b8aa2493f25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/date.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/mysql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hack/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/.gitkeep" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +82,11 @@
               <item name="goserve" type="b2602c69:ProjectViewProjectNode" />
               <item name="goserve" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="goserve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goserve" type="462c0819:PsiDirectoryNode" />
+              <item name="hack" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -101,6 +105,12 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\gowww\src\github.com\handsomeTiger\goserve\vendor" />
+      <recent name="C:\wamp\www\gowww\src\github.com\handsomeTiger\goserve\model" />
+      <recent name="C:\wamp\www\gowww\src\github.com\handsomeTiger\goserve\controller" />
+      <recent name="C:\wamp\www\gowww\src\github.com\handsomeTiger\goserve\docs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\gowww\src\github.com\handsomeTiger\goserve\library" />
     </key>
